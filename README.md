@@ -3,7 +3,7 @@
 
 # 课程目录
 
-![[课程目录 1.png]]
+![](source/课程目录 1.png)
 
 ##  A.==课程概览与 shell==(Course overview + the shell)
 
