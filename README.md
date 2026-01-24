@@ -6,4 +6,4 @@
 ![课程目录](source/p1.png)
 
 ## 第一节 课程概览与shell
-[课程概览与 shell](课程概览与 shell)
+[课程概览与 shell](课程概览与 shell.md)
