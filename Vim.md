@@ -1,6 +1,7 @@
 
  
  ==以下来自  vimtutor zh中的汉化vim教程==
+ 
  简体中文教程翻译版之译制者为梁昌泰 <beos@turbolinux.com.cn>
 
 ## 核心理念：模态编辑

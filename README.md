@@ -9,3 +9,4 @@
 [课程概览与 shell](<课程概览与 shell.md>)
 
 ## 第三节 Vim
+[Vim](<Vim.md>)
