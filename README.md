@@ -12,3 +12,6 @@
 [shell工具与脚本](shell工具与脚本.md)
 ## 第三节 Vim
 [Vim](<Vim.md>)
+
+## 第六节 版本控制（Git)
+[版本控制（Git)](<Git.md>)
